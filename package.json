@@ -1,0 +1,25 @@
+{
+  "name": "password-manager",
+  "version": "1.0.0",
+  "description": "Şifre yöneticisi",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "figlet": "^1.7.0",
+    "inquirer": "^10.2.2"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "password",
+    "password-manager",
+    "passwordmanager",
+    "password-mngr",
+    "şifre-yöneticisi",
+    "şifreyöneticisi"
+  ],
+  "author": "ErenayFC",
+  "license": "ISC"
+}
